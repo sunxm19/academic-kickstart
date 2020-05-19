@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Illinois"
   date_start = "2020-04-01"
   date_end = ""
-  description = """Energy and mass exchanges for bio-fuel crop using Eddy Covariance (EC) measurement, Evapotranspiration and its partitioning, and plant phenology"""
+  description = """Energy and mass exchanges for bio-fuel crop using Eddy Covariance (EC) measurement, Evapotranspiration and its partitioning, and plant phenology
   Responsibilities include:
   
   * Analysing EC data

@@ -15,6 +15,18 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "water-cycle"
+  icon_pack = "custom"
+  name = "Hydrology"
+  description = "90%"
+  
+[[feature]]
+  icon = "eddy"
+  icon_pack = "custom"
+  name = "Micrometeorology"
+  description = "90%"  
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -24,13 +36,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "gis"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "GIS"
+  description = "70%"
 
 # Uncomment to use emoji icons.
 # [[feature]]

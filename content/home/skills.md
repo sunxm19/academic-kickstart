@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "water-cycle"
+  icon = "Icon-water-blue"
   icon_pack = "custom"
   name = "Hydrology"
   description = "90%"
   
 [[feature]]
-  icon = "eddy"
+  icon = "eddy_covariance"
   icon_pack = "custom"
   name = "Micrometeorology"
   description = "90%"  
@@ -45,7 +45,7 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
-  icon = "water_isotopes"
+  icon = "atom"
   icon_pack = "custom"
   name = "Water Isotopes"
   description = "80%"

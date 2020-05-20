@@ -1,0 +1,28 @@
+% Encoding: UTF-8
+
+@Article{Sun2018,
+  author    = {Xiangmin Sun and Chris B. Zou and Bradford Wilcox and Elaine Stebler},
+  journal   = {Boundary-Layer Meteorology},
+  title     = {Effect of Vegetation on the Energy Balance and Evapotranspiration in Tallgrass Prairie: A Paired Study Using the Eddy-Covariance Method},
+  year      = {2018},
+  month     = {aug},
+  number    = {1},
+  pages     = {127--160},
+  volume    = {170},
+  doi       = {10.1007/s10546-018-0388-9},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Sun2019,
+  author    = {Xiangmin Sun and Bradford P. Wilcox and Chris B. Zou},
+  journal   = {Journal of Hydrology},
+  title     = {Evapotranspiration partitioning in dryland ecosystems: A global meta-analysis of in situ studies},
+  year      = {2019},
+  month     = {sep},
+  pages     = {123--136},
+  volume    = {576},
+  doi       = {10.1016/j.jhydrol.2019.06.022},
+  publisher = {Elsevier {BV}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

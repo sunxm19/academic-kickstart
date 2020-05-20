@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Xiangmin Sun is a postdoctoral research associate focusing on ecosystem biogeochemistry at UIUC. Based on measurement with eddy covariance and stable water isotopes, I am working on quantifying ecohydrological processes (such as water and carbon fluxes) in bio-fuel croplands under climate change and land cover change.
+Xiangmin (Sam) Sun is a postdoctoral research associate focusing on ecosystem biogeochemistry at UIUC. Based on measurement with eddy covariance and stable water isotopes, I am working on quantifying ecohydrological processes (such as water and carbon fluxes) in bio-fuel croplands under climate change and land cover change.
 
-The focus of my doctoral thesis was on ET partitioning in tallgrass prairie under woody plant encroachment. During my PhD study in the department of Ecosystem Science and Management at TAMU, I had intensive training on quantitative analysis, field work, and implementation of remote sensing and GIS methodologies. 
+The focus of my doctoral thesis was on ET partitioning in tallgrass prairie under woody plant encroachment. During my PhD study in the department of Ecosystem Science and Management at TAMU, I had intensive training on quantitative analysis, field work, and implementation of remote sensing and GIS. 

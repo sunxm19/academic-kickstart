@@ -40,9 +40,15 @@ subtitle = ""
   
 [[feature]]
   icon = "gis"
-  icon_pack = "fas"
+  icon_pack = "custom"
   name = "GIS"
   description = "70%"
+  
+[[feature]]
+  icon = "water_isotopes"
+  icon_pack = "custom"
+  name = "Water Isotopes"
+  description = "80%"
 
 # Uncomment to use emoji icons.
 # [[feature]]

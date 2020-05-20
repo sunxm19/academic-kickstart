@@ -21,7 +21,7 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "eddy_covariance"
+  icon = "eddy_1"
   icon_pack = "custom"
   name = "Micrometeorology"
   description = "90%"  

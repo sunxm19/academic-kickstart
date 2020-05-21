@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  organization = "LI-COR Biosciences"
+  organization_url = "https://www.licor.com/env/"
+  title = "Eddy Covariance Training Workshop"
+  url = "https://www.licor.com/env/products/eddy_covariance/resources"
+  certificate_url = ""
+  date_start = "2016-01-12"
+  date_end = "2016-01-14"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
   organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization_url = "https://www.edx.org"
+  title = "Data Scientist with R"
+  url = "https://learn.datacamp.com/career-tracks/data-scientist-with-r"
+  certificate_url = "https://drive.google.com/file/d/1E0clT7uW3nLz82MRSmZaXfHjsUZFkAyw/view?usp=sharing"
+  date_start = ""
+  date_end = ""
+  description = "This program combines statistical and machine learning techniques with R programming to analyze and interpret complex data. This online training program consists of 22 Courses with 89 hours in all."
+  
+#[[item]]
+#  organization = "DataCamp"
+#  organization_url = "https://www.datacamp.com"
+#  title = "Object-Oriented Programming in R: S3 and R6 Course"
+#  url = ""
+#  certificate_url = "https://www.datacamp.com"
+#  date_start = "2017-07-01"
+#  date_end = "2017-12-21"
+#  description = ""
 
 +++

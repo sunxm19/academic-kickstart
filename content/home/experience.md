@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Illinois"
   date_start = "2020-04-01"
   date_end = ""
-  description = """Energy and mass exchanges for bio-fuel crop using Eddy Covariance (EC) measurement, Evapotranspiration and its partitioning, and plant phenology
+  description = """Energy and mass exchanges for bio-fuel crop using Eddy Covariance (EC) measurement, Evapotranspiration and its partitioning, and plant phenology.
+
   Responsibilities include:
   
   * Analysing EC data
@@ -33,6 +34,14 @@ date_format = "Jan 2006"
   * Deploying GIS, remote sensing, and data science technologies 
   """
 
+[[experience]]
+  title = "Teaching assistant"
+  company = "Texas A&M University"
+  company_url = "https://essm.tamu.edu/"
+  location = "Texas"
+  date_start = "2013-09-01"
+  date_end = "2019-12-15"
+  description = """Taught Ecology lab, GIS lab, and Watershed analysis class."""
 #[[experience]]
 #  title = "Professor"
 #  company = "University X"

@@ -45,11 +45,16 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
-  icon = "atom"
+  icon = "Inkscape.logo"
   icon_pack = "custom"
-  name = "Water Isotopes"
+  name = "Graphic Design"
   description = "80%"
-
+  
+[[feature]]
+  icon = "LaTeX_logo"
+  icon_pack = "custom"
+  name = "Document Preparation"
+  description = "80%"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

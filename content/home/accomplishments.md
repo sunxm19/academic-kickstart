@@ -36,7 +36,7 @@ subtitle = ""
   certificate_url = "https://drive.google.com/file/d/1E0clT7uW3nLz82MRSmZaXfHjsUZFkAyw/view?usp=sharing"
   date_start = ""
   date_end = ""
-  description = "This program combines statistical and machine learning techniques with R programming to analyze and interpret complex data. This online training program consists of 22 Courses with 89 hours in all."
+  description = """This program combines statistical and machine learning techniques with R programming to analyze and interpret complex data. This online training program consists of 22 Courses with 89 hours in all."""
   
 #[[item]]
 #  organization = "DataCamp"

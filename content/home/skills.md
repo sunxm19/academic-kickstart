@@ -21,6 +21,12 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
+  icon = "water_isotopes"
+  icon_pack = "custom"
+  name = "Water Isotopes"
+  description = "80%"  
+  
+[[feature]]
   icon = "eddy_1"
   icon_pack = "custom"
   name = "Micrometeorology"
@@ -53,7 +59,7 @@ subtitle = ""
 [[feature]]
   icon = "LaTeX_logo"
   icon_pack = "custom"
-  name = "Document Preparation"
+  name = "Typesetting"
   description = "80%"
 # Uncomment to use emoji icons.
 # [[feature]]

@@ -21,7 +21,7 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "water_isotopes"
+  icon = "atom"
   icon_pack = "custom"
   name = "Water Isotopes"
   description = "80%"  

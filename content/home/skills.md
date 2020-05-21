@@ -57,7 +57,7 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "LaTeX_logo"
+  icon = "TeXstudio_Logo"
   icon_pack = "custom"
   name = "Typesetting"
   description = "80%"

@@ -33,7 +33,7 @@ external_link = https://aces.illinois.edu/news/doe-project-u-i-will-measure-bioe
 #  focal_point = "Smart"
 +++
 image:
-  caption: Corn
-  focal_point: Smart
+  caption: "Corn""
+  focal_point: "Smart"" 
 ---
 ---

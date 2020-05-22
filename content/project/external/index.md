@@ -12,7 +12,12 @@ summary = "Quantifying field-scale greenhouse gas (GHG), water, and energy fluxe
 # Example: `tags = ["eddy covariance", "ecohydrology"]`
 tags = ["eddy covariance"]
 ---
-
+---
+title: Midwest Bioenergy Crop
+summary: Quantifying field-scale greenhouse gas (GHG), water, and energy fluxes in Midwest Bioenergy Crop Landscape `external_link`.
+tags:
+- eddy covariance
+date: "2020-05-22T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link = "https://aces.illinois.edu/news/doe-project-u-i-will-measure-bioenergy-crop-carbon-emissions"
 
@@ -27,7 +32,7 @@ external_link = "https://aces.illinois.edu/news/doe-project-u-i-will-measure-bio
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-#image:
-#  caption: Photo by Toa Heftiba on Unsplash
-#  focal_point: Smart
+image:
+  caption: Corn
+  focal_point: Smart
 ---

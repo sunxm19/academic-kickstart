@@ -21,7 +21,7 @@ external_link = "https://aces.illinois.edu/news/doe-project-u-i-will-measure-bio
 [image]
   # Caption (optional)
   caption = "Corn"
-   external_link: https://pixabay.com/photos/corn-field-agriculture-crop-ear-866075/
+   external_link: "https://pixabay.com/photos/corn-field-agriculture-crop-ear-866075/"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

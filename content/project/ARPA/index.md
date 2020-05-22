@@ -36,3 +36,4 @@ image:
   caption: Corn
   focal_point: Smart
 ---
+---
